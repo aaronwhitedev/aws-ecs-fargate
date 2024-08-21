@@ -60,8 +60,5 @@ docker push YOUR_AWS_ACCOUNT_NUMBER.dkr.ecr.YOUR_AWS_REGION.amazonaws.com/aws-ec
 
 Replace the reference to `Image:` in `ecs-2.yml`  
 YOU MUST replace YOUR_AWS_ACCOUNT_NUMBER and YOUR_AWS_REGION to use your Image:  
-![API Infastructure](https://www.aaronwht.com/images/fargate/aws-ecr-001.png)  
-with:
-![API Infastructure](https://www.aaronwht.com/images/fargate/aws-ecr-002.png)
 
 Save `ecs-2.yml` and re-run the script from STEP 2.
