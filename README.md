@@ -1,7 +1,5 @@
 # AWS ECS Fargate - TypeScript App
 
-[Correlating Video Tutorial](https://youtu.be/eaS1jza_hy0)
-
 ### Prerequisites
 
 - AWS account with programatic access
