@@ -4,11 +4,7 @@
 
 - AWS account with programatic access
 - [AWS CLI](https://aws.amazon.com/cli/) must be installed
-- Domain name in Route 53 ([talentize.com](https://www.talentize.com) is my example)
-
-## Creates an AWS ECS Fargate Infrastructure
-
-![API Infastructure](https://www.aaronwht.com/images/fargate/fargate-nginx.png)
+- Domain name in Route 53
 
 ### Running this App locally
 
